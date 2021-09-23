@@ -427,6 +427,9 @@
   .uk-sticky-placeholder {
     height: max-content !important;
   }
+  .bcont {
+    padding-top: 25%;
+  }
 }
 
 @media screen and (min-width: 767px) {
